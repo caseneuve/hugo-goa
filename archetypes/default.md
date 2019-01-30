@@ -6,5 +6,5 @@ tags = []
 categories = []
 
 showpagemeta = true
-showcomments = true
+showcomments = false
 +++
